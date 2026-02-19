@@ -46,3 +46,8 @@ cd attendance_tracker_<name>
 python3 attendance_checker.p
 
 
+
+
+Annabel Kemasuode 
+This is the link to my video
+https://drive.google.com/file/d/1HbDnOitwYXIojvCJ8iOPWlY7yXZbzDDZ/view?usp=drivesdk
